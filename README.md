@@ -6,8 +6,11 @@ Tout n'est pas forcement (vraiment pas) optimise, mais ca a le merite d'exister.
 __GRADES:__
 
 Shell00 : _100_
+
 Shell01 : _85_
+
 C00 : _100_
+
 C01 : _100_
 C02 : _85_
 C03 : _100_
