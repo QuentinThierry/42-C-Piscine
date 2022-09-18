@@ -3,6 +3,8 @@
 Copier, c'est mal, et oui, ils le sauront si tu le fais.
 Tout n'est pas forcement (vraiment pas) optimise, mais ca a le merite d'exister.
 
+(J'ai été accepté)
+
 __GRADES:__
 
 Shell00 : _100_
